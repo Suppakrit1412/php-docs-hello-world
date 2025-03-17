@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello Azure! 2110511106022";
+echo "Hello Azure! Microsoft Azure ICT";
 ?>
